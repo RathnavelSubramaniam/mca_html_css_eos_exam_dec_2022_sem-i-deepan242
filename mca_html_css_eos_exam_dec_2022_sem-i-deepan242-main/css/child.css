@@ -1,0 +1,32 @@
+body{
+    background-color: cadetblue; 
+}
+.one{
+   /* background-color: aqua; */
+   background-image: linear-gradient(rgb(235, 151, 151),rgb(179, 236, 179),rgb(151, 151, 164),white);
+   
+   text-align: center;
+   padding-top: 20px;
+   
+   
+}
+.artt{
+    column-count: 3;
+    text-align: justify;
+}
+.cha{
+    float: left;
+}
+.ico{
+    width: 20px;
+height: 30px;
+}
+#foot,h5{
+    background-color: rgb(115, 236, 196);
+    font-weight: 200;
+    text-align: center;
+    margin-top: 5px;
+
+}
+#foot{
+    margin-top: 100%;}

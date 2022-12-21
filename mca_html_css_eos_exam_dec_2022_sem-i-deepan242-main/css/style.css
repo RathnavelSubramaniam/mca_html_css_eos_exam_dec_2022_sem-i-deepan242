@@ -1,0 +1,99 @@
+body{
+    background-color: cadetblue; 
+}
+.one{
+   /* background-color: aqua; */
+   background-image: linear-gradient(rgb(235, 151, 151),rgb(89, 238, 89),rgb(11, 11, 180),white);
+   
+   text-align: center;
+   padding-top: 20px;
+   
+   
+}
+       #navm,a{
+           text-decoration: none; 
+           padding: 50px;
+           background-color:rgb(232, 228, 228)
+           padding-top: 30px;
+           /* background-color: aqua; */
+       
+       }
+       #nn{
+           background-image: linear-gradient(white,orange);
+       }
+       
+       #two{
+           text-align: center;
+       }
+       .img{
+           
+           padding-left: 1px;
+           margin-right: 30px;
+           height: 250px;
+           width:300 ;
+           
+           
+       }
+       #two{
+           /* column-count: 2; */
+           /* column-gap: 10px; */
+       }
+   .art{
+            column-count: ;
+       }
+       .as{
+           float: left;
+           display: block;
+       }
+       #p1{
+           text-indent: 30px;
+           text-align: justify;
+           font-size:larger;
+           margin-left: 8cm;
+           margin-right: 50px;
+           
+           
+       }
+       #p2{
+           text-align: left;
+           font-size:larger
+       }
+       #p3{
+           text-align: left;
+           font-size:larger
+       }
+       #p4{
+           text-align: left;
+           font-size:larger
+       }
+       #np{
+           text-align: left;
+           font-size:larger;
+           margin-left: 8cm;
+       }
+       .ass{
+           border: solid red;
+           float:left;
+           margin-left: 30%;
+           margin-top: 10%;
+           display:flex
+           
+       }
+       #foot,h5{
+           background-color: rgb(115, 236, 196);
+           font-weight: 200;
+           text-align: center;
+           margin-top: 5px;
+
+       }
+       #foot{
+           margin-top: 10px;
+       }
+       .mainart{
+           column-count: 2;
+           text-align: justify;
+       }
+       h3{
+           text-align: center;
+       }
+      
